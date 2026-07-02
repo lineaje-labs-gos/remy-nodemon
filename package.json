@@ -80,5 +80,11 @@
   },
   "publishConfig": {
     "provenance": true
+  },
+  "overrides": {
+    "picomatch": ">=2.3.2"
+  },
+  "resolutions": {
+    "picomatch": ">=2.3.2"
   }
 }
