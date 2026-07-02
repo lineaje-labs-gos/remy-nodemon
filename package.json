@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/remy/nodemon.git"
+    "url": "https://github.com/lineaje-labs-gos/remy-nodemon"
   },
   "description": "Simple monitor script for use during development of a Node.js app.",
   "keywords": [
@@ -27,6 +27,12 @@
     "terminal"
   ],
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "types": "./index.d.ts",
   "main": "./lib/nodemon",
   "scripts": {
@@ -67,7 +73,7 @@
     "touch": "^3.1.0",
     "undefsafe": "^2.0.5"
   },
-  "version": "0.0.0-development",
+  "version": "3.1.14-lineaje-01",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/nodemon"
